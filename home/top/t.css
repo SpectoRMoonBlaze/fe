@@ -1,0 +1,96 @@
+
+body{
+	background: url(37440.jpg);
+-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.form {
+	height: 600px;
+	width: 700px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.7);
+	border-radius: 10px;
+}
+
+.block1{ 
+	position: absolute;	
+	top: 3%;
+	left: 13%;
+	border-radius: 10px;
+	background: linear-gradient(180deg , red, magenta);
+	width: 70px;
+	height: 200px;
+}
+
+.block2{
+	position: 	absolute;	
+	top: 110%;
+	left: -20%;
+}
+.block3{
+	position: absolute;
+	left: 66px;
+	top: 40%;
+}
+
+.block5{ 
+	position: absolute;	
+	top: 3%;
+	left: 20%;
+	border-radius: 10px;
+	background: linear-gradient(180deg , aqua, blue);
+	width: 80px;
+	height: 270px;
+}
+.block4{
+	position: absolute;	
+	top:28%; 
+	left: 43%;	
+	background:linear-gradient(180deg , aqua, blue);
+}
+.block8{
+	position: absolute;
+	top: 110%;
+	left:-10%;
+}
+.block7{
+	border-radius: 10px;
+	position: absolute;
+	top: 33%;
+	left:79%;
+	background: linear-gradient(180deg , green, #0B3B0B);
+	height:240px;
+	width: 70px;
+}
+
+.form2 {
+	height: 600px;
+	width: 700px;
+	position: absolute;
+	top: 160%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.7);
+	border-radius: 10px;
+}
+
+.block121{
+	width: 98%;
+	background-color: white;
+	height: 1px;
+	position: absolute;
+	top: 210%;
+}
+
+.block83{
+	position: absolute;
+	top: 20%;
+	left:43%;
+}

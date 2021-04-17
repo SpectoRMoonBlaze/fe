@@ -1,0 +1,56 @@
+
+body{
+		background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(37440.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.form {
+	width: 800px;
+	height: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.7);
+	border-radius: 10px;
+}
+.font{
+	font-size: 40px;
+}
+
+.form h1 {
+	margin: 30px 100px;
+	padding: 0;
+	text-align: center;
+	color: #fff;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+.block12{
+	position: absolute;
+	top: 40%;
+}
+
+.block13{
+	position: absolute;
+	top: 80%;
+}
+
+.block14{
+	position: absolute;
+	left: 1%;
+}
+
+.block12{
+	position: absolute;
+	left: 1%;
+}
+
+.block13{
+	position: absolute;
+	left: 1%;
+}
